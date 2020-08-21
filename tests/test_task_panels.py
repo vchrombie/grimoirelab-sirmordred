@@ -19,7 +19,6 @@
 # Authors:
 #     Alvaro del Castillo <acs@bitergia.com>
 
-import json
 import sys
 import unittest
 import unittest.mock
