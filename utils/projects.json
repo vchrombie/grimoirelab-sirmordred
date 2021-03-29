@@ -9,10 +9,10 @@
         "colic": [
             "https://github.com/chaoss/grimoirelab-toolkit"
         ],
-        "*github": [
+        "github": [
             "https://github.com/chaoss/grimoirelab-perceval"
         ],
-        "*github:pull": [
+        "github:pull": [
             "https://github.com/chaoss/grimoirelab-perceval"
         ],
         "github:repo": [
